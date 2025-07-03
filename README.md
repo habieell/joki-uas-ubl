@@ -78,9 +78,7 @@ CREATE TABLE IF NOT EXISTS mahasiswa (
 
 ## 👨‍💻 Developer
 
-- **Nama:** Habil Putra Wardana
-- **NIM:** 00000073909
-- **Kampus:** Universitas Multimedia Nusantara (UMN)
+- **Nama:** Jokopling
 
 ---
 
